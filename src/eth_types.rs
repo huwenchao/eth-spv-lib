@@ -1,5 +1,4 @@
 extern crate alloc;
-extern crate rlp;
 use alloc::vec::Vec;
 use derive_more::{
     Add, AddAssign, Display, Div, DivAssign, From, Into, Mul, MulAssign, Rem, RemAssign, Sub,
