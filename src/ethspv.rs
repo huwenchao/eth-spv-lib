@@ -1,4 +1,5 @@
 extern crate alloc;
+extern crate rlp;
 use crate::eth_types::*;
 use rlp::Rlp;
 
